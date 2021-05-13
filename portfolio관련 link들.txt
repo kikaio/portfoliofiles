@@ -10,6 +10,8 @@ Django 기반 WebTool [Python]
  - https://github.com/kikaio/portfolio_django.git
 관련 ppt
  - https://docs.google.com/presentation/d/1SMMhOpbkWLbL__NIlqLdFPlLE3YvxDqy44dfpi4E7IM/edit?usp=sharing
+실제 service중인 URL [PythonAnywhere]
+ - http://kikaio.pythonanywhere.com/
 
 ===============================
 과거 C++로 진행했던 project들

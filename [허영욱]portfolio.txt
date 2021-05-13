@@ -1,0 +1,27 @@
+[해당 text 파일은 주기적으로 최신화하고 있습니다.]
+
+
+간단한 Chatting service [C#]
+ - https://github.com/kikaio/portfoliofiles.git
+관련 ppt
+ - https://docs.google.com/presentation/d/1cPw9GCd1IQXzmo0BaoCPplm51LJ3bMJ7K7VbNLxNhR0/edit?usp=sharing
+
+Django 기반 WebTool [Python]
+ - https://github.com/kikaio/portfolio_django.git
+관련 ppt
+ - https://docs.google.com/presentation/d/1SMMhOpbkWLbL__NIlqLdFPlLE3YvxDqy44dfpi4E7IM/edit?usp=sharing
+
+===============================
+과거 C++로 진행했던 project들
+
+[과거에 했던 프로젝트들이라 현재 C++ 코드를 git에 정리할 예정입니다.]
+[해당 프로젝트들은 code를 다시 파악해야 합니다.]
+
+메탈슬러그 모작
+ - 영상 URL : https://www.youtube.com/watch?v=A7f5hc7DFcc&t=2s
+MFC 사용 Tool 
+ - 영상 URL : https://www.youtube.com/watch?v=MLMGlnjNehY
+GameClient Team Portfolio
+ - 영상 URL : https://www.youtube.com/watch?v=jOiLaLA4rp4
+
+

@@ -4,11 +4,16 @@
  - 개발환경 : C#
  - https://github.com/kikaio/CoreNet.git
 
+CoreNet 기반 ChatService : 한 solution 내에 공용 lib, Server, Client 코드 포함.
+ - 개발 환경 : C#
+ - https://github.com/kikaio/ChatCore.git
+ - 관련 PPT(정리중) : https://docs.google.com/presentation/d/1cPw9GCd1IQXzmo0BaoCPplm51LJ3bMJ7K7VbNLxNhR0/edit?usp=sharing
+
 CoreNet 기반 MmoGame Seervice용 공용 Library : MmoCore
  - 개발환경 C#
  - https://github.com/kikaio/MmoCore.git
 
-MmoCore를 기반으로 하는 GameServer
+MmoCore를 기반으로 하는 GameServer : 작업중.
  - 개발환경 C#
  - https://github.com/kikaio/MmoServer.git
 

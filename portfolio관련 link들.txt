@@ -1,31 +1,25 @@
 [해당 text 파일은 주기적으로 최신화하고 있습니다.]
 
 직접 만들고 있는 C# Network Library : CoreNet
- - 개발환경 : C#
+ - 개발환경 : C# Framework
  - https://github.com/kikaio/CoreNet.git
 
 CoreNet 기반 ChatService : 한 solution 내에 공용 lib, Server, Client 코드 포함.
- - 개발 환경 : C#
+ - 개발 환경 : C# Framework
  - https://github.com/kikaio/ChatCore.git
- - 관련 PPT(정리중) : https://docs.google.com/presentation/d/1cPw9GCd1IQXzmo0BaoCPplm51LJ3bMJ7K7VbNLxNhR0/edit?usp=sharing
+ - 관련 PPT : https://docs.google.com/presentation/d/1cPw9GCd1IQXzmo0BaoCPplm51LJ3bMJ7K7VbNLxNhR0/edit?usp=sharing
 
 CoreNet 기반 MmoGame Seervice용 공용 Library : MmoCore
- - 개발환경 C#
+ - 개발환경 C# Framework
  - https://github.com/kikaio/MmoCore.git
 
-MmoCore를 기반으로 하는 GameServer : 작업중.
- - 개발환경 C#
+MmoCore를 기반으로 하는 GameServer ( 작업중 )
+ - 개발환경 C# Framework
  - https://github.com/kikaio/MmoServer.git
 
 MmoCore를 기반으로 하는 GameClient : GameServer 작업 후 진행 예정.
  - 개발환경 : C# , Unity 
 
-
-간단한 Task Async Base Chatting service
- - 개발환경 : C#
- - https://github.com/kikaio/portfoliofiles.git
-관련 ppt
- - https://docs.google.com/presentation/d/1cPw9GCd1IQXzmo0BaoCPplm51LJ3bMJ7K7VbNLxNhR0/edit?usp=sharing
 
 WebTool
  - 개발환경 : python, Django
